@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "devDependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "This is a Calculator made for PIAIC's programming assigment #1",
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "test": "lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N/A.git"
+  },
+  "keywords": [
+    "Basic",
+    "Mathematical",
+    "Calculations"
+  ],
+  "author": "Samar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N/A/issues"
+  },
+  "homepage": "https://github.com/N/A#readme"
+}
